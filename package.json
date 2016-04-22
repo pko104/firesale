@@ -1,0 +1,26 @@
+{
+  "name": "firesale",
+  "version": "1.0.0",
+  "description": "ticket sales",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peter Ko",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pko104/firesale.git"
+  },
+  "keywords": [
+    "ticket"
+  ],
+  "bugs": {
+    "url": "https://github.com/pko104/firesale/issues"
+  },
+  "homepage": "https://github.com/pko104/firesale"
+}
